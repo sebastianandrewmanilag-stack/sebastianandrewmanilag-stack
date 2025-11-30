@@ -38,4 +38,4 @@ HTML
 
 ## Let's Connect!
 
-Email: **sebastianandrew.manilag@neu.edu.ph**(sebastianandrew.manilag@neu.edu.ph)
+Email: **sebastianandrew.manilag@neu.edu.ph**
