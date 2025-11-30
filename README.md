@@ -13,7 +13,7 @@ My journey in tech commenced with the BS Information Technology program.
 ---
 
 ## Certifications
-- [SQL and Relational Databases 101] (https://courses.cognitiveclass.ai/certificates/e9078e173118494e8caf5894edba8137)
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e9078e173118494e8caf5894edba8137)
 
 ---
 
