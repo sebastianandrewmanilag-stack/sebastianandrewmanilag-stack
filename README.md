@@ -1,14 +1,15 @@
 # Hi there, I'm Sebastian Andrew N. Manilag! 👋
 
-I am passionate about coding and adept in managing databases. I thrive on solving intricate problems and architecting elegant solutions.  
+I am passionate about Web Designer and Game Developer. I thrive on solving intricate problems and architecting elegant solutions.  
 My journey in tech commenced with the BS Information Technology program.
 
 ---
 
 ## Education
-**BS Computer Science**
-  - New Era University  
-  - 2027–Present
+**BS Information Technology**
+  - **School:** New Era University
+  - **Course** Bachelor of Science in Information Technology
+  - **Year Level:** 2nd Year
 
 ---
 
@@ -18,21 +19,23 @@ My journey in tech commenced with the BS Information Technology program.
 ---
 
 ## Skill Sets
+- **Programming Languages:** PHP, Java, SQL
+- **Web Development:** HTML, CSS, Laragon
+- **Tools:** VS Code, Figma, IntelliJ
+- **Other Skills:** Database Management, UI/UX Design
 
-### Programming
-Java  
-JavaScript
 
 ### Databases
 IBM DB2 Cloud
 
 ### Tools
 Lucidchart  
-Jaspersoft Studio  
-Eclipse  
+VScode
+Intellij
 HTML
 
 ---
 
 ## Let's Connect!
+
 Email: **sebastianandrew.manilag@neu.edu.ph**
