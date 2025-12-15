@@ -17,6 +17,7 @@ My journey in tech commenced with the BS Information Technology program.
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e9078e173118494e8caf5894edba8137)
 - [Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0A03870670D8D85AE12BC7C52CF384D49CF39FF046C83F30E1600C7EAD3A66DD)
 - [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=56E4909AB71F5C16A70914DCF9CFEEAD65618C9D2B971A2A77820D1A3DF161F8)
+- [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=90A36A4AC741FB570E54783E474EDAD5CA2F61275D20D9B4B89289AFEFFA2F4D)
 
 ---
 
